@@ -1,0 +1,77 @@
+.linea{
+    border: 1px outset green;
+}
+
+.test{
+    width:40%;
+    position:absolute;
+    top:45%;left:36%;
+    height:800px
+}
+
+.test1{
+
+    border: 5px outset black;
+    width: 100%;
+    position:relative;
+
+
+}
+
+.verde{
+    background-color:green;
+}
+
+.test2{
+ 
+    border: 5px outset black;
+    width:100%;
+    position:relative;
+    top:5%;
+ }
+ .rosa{
+    background-color:pink;
+ }
+
+#image{
+    position:relative;
+    left:20%;top:-60px;
+}
+#img-div{
+    position:-webkit-sticky;
+    position: sticky;
+    bottom:5%;
+}
+
+.body{
+    background-color: rgb(255, 245, 151);
+    width: 800px;
+    height:1000px; 
+}
+
+#main{
+    background-color: rgb(255, 245, 151);
+    width: 800px;
+    height:1000px;
+}
+
+#title{
+    background-color:black;
+    color:white;
+}
+
+#img-caption{
+    position:relative;
+    top:5%;
+    width:100%;
+    
+}
+
+#tribute-info{
+    display:none;
+}
+
+#tribute-link{
+    color:white;
+    background-color:black;
+}
